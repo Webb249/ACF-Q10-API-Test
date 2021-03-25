@@ -1,0 +1,32 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.footer p {
+    display: inline-block;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+
+.footer input {
+    display: inline-block;
+    width: 30px;
+}
+
+.itemDisplay p {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial;
+    width: 300px;
+}
+
+.itemDisplay img {
+    display: inline-block;
+    margin: 10px;
+}
